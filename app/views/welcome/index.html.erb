@@ -1,0 +1,41 @@
+<%
+   startDate   = Date.parse("2012-10-25")
+   endDate     = Date.parse("2012-11-25")
+   currentDate = Date.today
+   percentage  = ((currentDate - startDate) / (endDate - startDate)*100).round
+%>
+<header>
+  <div class="logo"><a href="#"><img src="/images/text-logo.png" class="logo" alt="" /></a></div>
+  <div class="ribbon"><img src="/images/ribbon.png" alt="" /></div>
+</header>
+
+<section>
+  <div id="timer">
+    <div id="d1"></div>
+    <div id="d2"></div>
+    <div id="h1"></div>
+    <div id="h2"></div>
+    <div id="m1"></div>
+    <div id="m2"></div>
+    <div id="s1"></div>
+    <div id="s2"></div>
+  </div>
+  <div class="progress"><div class="bar" data-progress="<%= number_to_percentage(percentage)%>"></div><div class="tooltip"></div></div>
+</section>
+
+
+<footer>
+  <div class="container">
+    <ul class="social">
+      <li><a href="http://facebook.com/luckymancvp"><img src="/images/social-facebook.png" alt="" /></a></li>
+      <li><a href="http://twitter.com/luckymancvp"><img src="/images/social-twitter.png" alt="" /></a></li>
+      <li><a href="http://plus.google.com/luckymancvp"><img src="/images/social-google-plus.png" alt="" /></a></li>
+    </ul>
+    <form action="" method="post" class="notify">
+      <input type="text" class="field" name="email" placeholder="Your e-mail" />
+      <input type="submit" class="button" name="submit" value="" />
+    </form>
+  </div>
+</footer>
+<script src="js/timer.js"></script>
+<script src="js/style.js"></script>

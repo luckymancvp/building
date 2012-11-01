@@ -66,7 +66,7 @@
 				$(options.day1Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.daysColor + '-' + cd1 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.daysColor + '-' + cd1 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.day1Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -75,7 +75,7 @@
 				$(options.day2Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.daysColor + '-' + cd2 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.daysColor + '-' + cd2 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.day2Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -84,7 +84,7 @@
 				$(options.hour1Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.hoursColor + '-' + ch1 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.hoursColor + '-' + ch1 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.hour1Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -93,7 +93,7 @@
 				$(options.hour2Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.hoursColor + '-' + ch2 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.hoursColor + '-' + ch2 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.hour2Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -102,7 +102,7 @@
 				$(options.minute1Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.minutesColor + '-' + cm1 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.minutesColor + '-' + cm1 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.minute1Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -111,7 +111,7 @@
 				$(options.minute2Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.minutesColor + '-' + cm2 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.minutesColor + '-' + cm2 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.minute2Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -120,7 +120,7 @@
 				$(options.second1Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.secondsColor + '-' + cs1 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.secondsColor + '-' + cs1 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.second1Selector).find('img:last-child').addClass('new');
 				}, 10);
@@ -129,7 +129,7 @@
 				$(options.second2Selector)
 					.find('img.old').remove().end()
 					.find('img.new').removeClass('new').addClass('old').end()
-					.append('<img src="./img/number-' + options.secondsColor + '-' + cs2 + '.png" alt="" />');
+					.append('<img src="./images/number-' + options.secondsColor + '-' + cs2 + '.png" alt="" />');
 				setTimeout(function() {
 					$(options.second2Selector).find('img:last-child').addClass('new');
 				}, 10);

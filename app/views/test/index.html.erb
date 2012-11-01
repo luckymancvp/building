@@ -1,0 +1,9 @@
+<h1>Test#index</h1>
+<p>Find me in app/views/test/index.html.erb</p>
+
+<%
+   startDate   = Date.parse("2012-10-10")
+   endDate     = Date.parse("2013-01-01")
+   currentDate = Date.today
+   percentage  = ((currentDate - startDate) / (endDate - startDate)*100).round
+%>
