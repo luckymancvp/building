@@ -2,214 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527d9c25-da18-4680-bf2d-cd286728799d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-asfalt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-brick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-burried.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-carbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-cloth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-darkdenim3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-denim.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-dirty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-dotted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-dvsup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-fabric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-hexabunp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-icongrpip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-illusion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-linen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-mamba.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-matter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-metal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-nami.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-navy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-noisy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-outlets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-rebel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-skewed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-suit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-tasky.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-tire.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-tr24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-twill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-txture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bg-wall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/footer-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/notify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-blue-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-green-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-orange-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/number-pink-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/progress-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/progress-bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/progress-tooltip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social-facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social-google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social-twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/text-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/test.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/welcome.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/test.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/test_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/test_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/welcome_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/test/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/test_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/welcome_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/test_helper_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/welcome_helper_test.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/Descr.WD3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/apple-touch-icon-114-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/apple-touch-icon-144-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/apple-touch-icon-57-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/apple-touch-icon-72-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-asfalt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-brick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-burried.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-carbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-cloth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-darkdenim3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-denim.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-dirty.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-dotted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-dvsup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-fabric.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-hexabunp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-icongrpip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-illusion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-linen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-mamba.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-matter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-metal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-nami.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-navy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-noisy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-office.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-outlets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-rebel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-skewed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-suit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-tasky.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-tire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-tr24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-twill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-txture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/bg-wall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/footer-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/notify.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-blue-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-green-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-orange-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/number-pink-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/progress-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/progress-bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/progress-tooltip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/social-circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/social-facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/social-google-plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/social-twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/text-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/timer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/building.iml" afterPath="$PROJECT_DIR$/.idea/building.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/unicorn.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/style.js" afterPath="$PROJECT_DIR$/public/js/style.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/timer.js" afterPath="$PROJECT_DIR$/public/js/timer.js" />
     </list>
     <ignored path="building.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -231,7 +26,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="14" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-6.9">
+            <state line="23" column="14" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -240,7 +35,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="36" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.625">
+            <state line="1" column="36" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -249,7 +44,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/test/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="69" selection-end="265" vertical-scroll-proportion="-1.875">
+            <state line="3" column="0" selection-start="69" selection-end="265" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -406,7 +201,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="building" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="building" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="building" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="building" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -451,6 +278,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="building" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="building" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -582,6 +427,24 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="" />
@@ -608,7 +471,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -729,10 +592,9 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13841368" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1407465" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -741,6 +603,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -800,6 +663,34 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="36" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/test/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="69" selection-end="265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="39" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="20" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
@@ -830,9 +721,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="51" selection-start="2100" selection-end="2100" vertical-scroll-proportion="1.819853">
-          <folding />
-        </state>
+        <state line="66" column="51" selection-start="2100" selection-end="2100" vertical-scroll-proportion="1.819853" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
@@ -844,21 +733,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/test/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="69" selection-end="265" vertical-scroll-proportion="-1.875">
+        <state line="3" column="0" selection-start="69" selection-end="265" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="14" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-6.9">
+        <state line="23" column="14" selection-start="1001" selection-end="1001" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="36" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.625">
+        <state line="1" column="36" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/unicorn.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.5292153">
           <folding />
         </state>
       </provider>
