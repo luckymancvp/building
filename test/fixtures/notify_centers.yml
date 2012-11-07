@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  content: MyString
+  conditions: MyString
+  time: 2012-11-07 09:52:17
+  checked: false
+
+two:
+  title: MyString
+  content: MyString
+  conditions: MyString
+  time: 2012-11-07 09:52:17
+  checked: false
