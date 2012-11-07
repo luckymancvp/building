@@ -1,0 +1,14 @@
+<script>
+  function getPermission(){
+      switch (window.webkitNotifications.checkPermission()) { // 0 is PERMISSION_ALLOWED
+          case 0 :
+                  alert("You've already allowed ! Please back to site");
+                  break;
+          case 2 :
+                  alert("Please remove deny permission in your browser");
+          default:
+            window.webkitNotifications.requestPermission();
+      }
+  }
+</script>
+<button onclick="getPermission()" value="123">Click here to allow notification</button>

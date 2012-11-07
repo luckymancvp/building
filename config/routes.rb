@@ -1,4 +1,7 @@
 Building::Application.routes.draw do
+  get "notify_center/get"
+  get "notify_center/allow"
+
   get "test/index"
 
   get "welcome/index"

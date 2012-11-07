@@ -7,12 +7,36 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <link href="css/style.css" rel="stylesheet">
+  <link href="/css/style.css" rel="stylesheet">
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <script src="js/jquery.min.js"></script>
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/notify.js"></script>
+
+  <script>
+
+    var nc = null;
+    function getNotify(){
+        $.ajax({
+            "url" : "/notify_center/get",
+            "success" : function(notify){
+                if (!notify) return;
+                nc.notify({
+                    title   : notify.title ,
+                    content : notify.content
+                })
+            }
+        });
+        window.setTimeout("getNotify()", 5000);
+    };
+
+    $(document).ready(function(){
+        nc = notificationCenter();
+        if (window.webkitNotifications.checkPermission() == 0) getNotify();
+    });
+  </script>
 
   <link rel="shortcut icon" href="/images/favicon.ico">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144-precomposed.png">
