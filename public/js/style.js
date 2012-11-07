@@ -2,7 +2,7 @@ $(document).ready(function() {
 	// Attach timer
 	$('#timer').timer({
 		animation: 'scale',
-		target: new Date("November 25, 2012 00:00:00")
+		target: new Date("November 23, 2012 00:00:00")
 	});
 	
 	// Progress update (to support animation)

@@ -1,13 +1,21 @@
 <script>
   function getPermission(){
+      if ( !window.webkitNotifications ) {
+          alert("Your browser doesn't support this function !");
+          window.location.href = "/";
+      }
       switch (window.webkitNotifications.checkPermission()) { // 0 is PERMISSION_ALLOWED
           case 0 :
                   alert("You've already allowed ! Please back to site");
+                  window.location.href = "/";
                   break;
           case 2 :
                   alert("Please remove deny permission in your browser");
           default:
-            window.webkitNotifications.requestPermission();
+              window.webkitNotifications.requestPermission(function () {
+                  alert("Thanks for using this function ! Redirect to main page now.");
+                  window.location.href = "/";
+              });
       }
   }
 </script>

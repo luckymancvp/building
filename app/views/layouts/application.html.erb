@@ -29,12 +29,13 @@
                 })
             }
         });
-        window.setTimeout("getNotify()", 5000);
+        window.setTimeout("getNotify()", 60000);
     };
 
     $(document).ready(function(){
         nc = notificationCenter();
-        if (window.webkitNotifications.checkPermission() == 0) getNotify();
+        if ( window.webkitNotifications && (window.webkitNotifications.checkPermission() == 0))
+            getNotify();
     });
   </script>
 
