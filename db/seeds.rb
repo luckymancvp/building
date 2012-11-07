@@ -36,6 +36,7 @@ NotifyCenter.create(
     :title   => "Title 5",
     :content => "Content 5",
     :checked => 0,
+    :conditions => "nothing",
     :time    => "2012-11-08 12:30:00"
 )
 #
