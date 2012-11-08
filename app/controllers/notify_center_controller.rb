@@ -15,24 +15,24 @@ class NotifyCenterController < ApplicationController
     Time.zone = "Hanoi"
     now       = Time.now
     endTime   = Time.new(now.year, now.month, now.day, 17, 30)
-    diff      = endTime - now;
+    diff      = ((endTime - now)/60).to_i;
 
 
     notify         = NotifyCenter.new
     notify.title   = "New notification !"
-    notify.content = "Time left : " + (diff/60).to_i.to_s + " minutes"
-    if (notify >= 240) then
-      return notify if notify % 60 == 0
+    notify.content = "Time left : " + diff.to_s + " minutes"
+    if (diff >= 240) then
+      return notify if diff % 60 == 0
       return nil
     end
 
-    if (notify >= 30) then
-      return notify if notify % 30 == 0
+    if (diff >= 30) then
+      return notify if diff % 30 == 0
       return nil
     end
 
-    if (notify > 0) then
-      return notify if notify < 30
+    if (diff > 0) then
+      return notify if diff < 30
     end
 
     return nil
