@@ -10,17 +10,32 @@ class NotifyCenterController < ApplicationController
   end
 
   def notify_by_time
+
     # Init time value
-    now     = Time.now
-    endTime = Time.new(now.year, now.month, now.day, 17, 30)
-    diff    = endTime - now;
+    Time.zone = "Hanoi"
+    now       = Time.now
+    endTime   = Time.new(now.year, now.month, now.day, 17, 30)
+    diff      = endTime - now;
 
 
     notify         = NotifyCenter.new
     notify.title   = "New notification !"
     notify.content = "Time left : " + (diff/60).to_i.to_s + " minutes"
+    if (notify >= 240) then
+      return notify if notify % 60 == 0
+      return nil
+    end
 
-    return notify
+    if (notify >= 30) then
+      return notify if notify % 30 == 0
+      return nil
+    end
+
+    if (notify > 0) then
+      return notify if notify < 30
+    end
+
+    return nil
   end
 
   def notify_by_db

@@ -60,6 +60,6 @@ module Building
     config.assets.version = '1.0'
 
     config.time_zone = "Hanoi"
-    config.active_record.default_timezone = :local
+    config.active_record.default_timezone = config.time_zone
   end
 end

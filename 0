@@ -1,0 +1,34 @@
+[1m[37m      invoke[0m  active_record
+[1m[32m      create[0m    db/migrate/20121106042618_create_notify_centers.rb
+[1m[31m    conflict[0m    app/models/notify_center.rb
+  Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/app/models/notify_center.rb? (enter "h" for help) [Ynaqdh] [1m[33m       force[0m    app/models/notify_center.rb
+[1m[37m      invoke[0m    test_unit
+[1m[34m   identical[0m      test/unit/notify_center_test.rb
+[1m[31m    conflict[0m      test/fixtures/notify_centers.yml
+    Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/test/fixtures/notify_centers.yml? (enter "h" for help) [Ynaqdh] [1m[33m       force[0m      test/fixtures/notify_centers.yml
+[1m[37m      invoke[0m  resource_route
+[1m[32m       route[0m    resources :notify_centers
+[1m[37m      invoke[0m  scaffold_controller
+[1m[34m   identical[0m    app/controllers/notify_centers_controller.rb
+[1m[37m      invoke[0m    erb
+[1m[34m       exist[0m      app/views/notify_centers
+[1m[31m    conflict[0m      app/views/notify_centers/index.html.erb
+    Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/app/views/notify_centers/index.html.erb? (enter "h" for help) [Ynaqdh] [1m[33m       force[0m      app/views/notify_centers/index.html.erb
+[1m[34m   identical[0m      app/views/notify_centers/edit.html.erb
+[1m[31m    conflict[0m      app/views/notify_centers/show.html.erb
+    Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/app/views/notify_centers/show.html.erb? (enter "h" for help) [Ynaqdh] [1m[33m       force[0m      app/views/notify_centers/show.html.erb
+[1m[34m   identical[0m      app/views/notify_centers/new.html.erb
+[1m[31m    conflict[0m      app/views/notify_centers/_form.html.erb
+    Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/app/views/notify_centers/_form.html.erb? (enter "h" for help) [Ynaqdh]     Y - yes, overwrite
+n - no, do not overwrite
+a - all, overwrite this and all others
+q - quit, abort
+d - diff, show the differences between the old and the new
+h - help, show this help
+    Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/app/views/notify_centers/_form.html.erb? (enter "h" for help) [Ynaqdh]     Y - yes, overwrite
+n - no, do not overwrite
+a - all, overwrite this and all others
+q - quit, abort
+d - diff, show the differences between the old and the new
+h - help, show this help
+    Overwrite /Volumes/Data/Study/Web Development/Language/Ruby On Rails/Dev/building/app/views/notify_centers/_form.html.erb? (enter "h" for help) [Ynaqdh] 
